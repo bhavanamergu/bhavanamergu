@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **bhavanamergu05@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TbbiobkV2kFTlK1YKNtp7fM3rEAQ31Ee/view?usp=sharing](https://drive.google.com/file/d/1TbbiobkV2kFTlK1YKNtp7fM3rEAQ31Ee/view?usp=sharing)
-
 - ⚡ Fun fact **I'm like a debugger in real life—always finding solutions to every problem!**
 
 <h3 align="left">Connect with me:</h3>
