@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Spotify clone Project**
 
-- 🌱 I’m currently learning **Reactjs, Nodejs**
+- 🌱 I’m currently learning **Nodejs**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Java Springboot**
 
 - 📫 How to reach me **bhavanamergu05@gmail.com**
 
